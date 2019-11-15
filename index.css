@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.number {
+  width: 50px;
+}
+
+.results {
+  margin: 40px 100px
+}
